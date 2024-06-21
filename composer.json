@@ -1,7 +1,7 @@
 {
     "name": "tvelu77/php-serial",
     "description": "Multi-platform convenience class to access the serial port from PHP for PHP 8+",
-    "license": "GPL-2.0 license",
+    "license": "GPL-2.0-only",
     "autoload": {
         "psr-4": {
             "Tvelu77\\PhpSerial\\": "src/"
@@ -13,5 +13,7 @@
             "email": "velu.thomas77@laposte.net"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
