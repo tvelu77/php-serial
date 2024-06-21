@@ -4,7 +4,7 @@ PHP Serial
 This project was created for a project at my work where a Symfony project needs to communicate to a machine through the COM port on Windows. 
 After a long time, surfing the web, I found [PHP-Serial](https://github.com/Xowap/PHP-Serial) made by [Xowap](https://github.com/Xowap).  
 However, when I found out that the project wasn't longer maintened and the pull requests weren't accepted, I decided to share some fixes and improvements !
-Especially, a Windows fix, a PHP 8+ compatibility and a cleaner code (I think so, I don't know, Java is better :P).
+Especially, a Windows fix, a PHP 8.2+ compatibility and a cleaner code (I think so, I don't know, Java is better :P).
 
 I really hope it will help someone !
 
